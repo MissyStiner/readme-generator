@@ -42,5 +42,5 @@ THEN I am taken to the corresponding section of the README
 ## How to make contributions
 
 
-#### Special Thanks
+#### Contributions
 Starter code: https://github.com/coding-boot-camp/potential-enigma
