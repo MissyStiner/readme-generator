@@ -1,11 +1,18 @@
-# Professional README Generator Starter Code
+# README Generator
 
 ## Description
 This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.<br>
 
-Review what a professional README should contain here: [How to create a Professional README](./readme-guide.md)<br>
+Run the application with the following command: `node index.js`
 
-Invoke the application with the following command: `node index.js`
+## GitHub URL:
+https://github.com/MissyStiner/readme-generator
+
+## Walkthrough Video Demo:
+https://watch.screencastify.com/v/gUtcvd0pGS5V9Xpino2o
+
+## README from Video:
+https://github.com/MissyStiner/readme-generator/blob/main/videoREADME.md
 
 ## User Story
 AS A developer<br>
@@ -29,18 +36,5 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents<br>
 THEN I am taken to the corresponding section of the README
 
-==================================================
-
-## What the app is for
-
-## How to use the app
-
-## How to install it
-
-## How to report issues
-
-## How to make contributions
-
-
-#### Special Thanks
+#### Contributions
 Starter code: https://github.com/coding-boot-camp/potential-enigma
