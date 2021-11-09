@@ -30,7 +30,7 @@ function generateMarkdown(data) {
 * [Installation](#installation)
 
 * [Usage](#usage)
-${renderLicenseLink(data.license)}
+
 * [Contributing](#contributing)
 
 * [Tests](#tests)

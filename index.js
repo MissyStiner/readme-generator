@@ -51,7 +51,8 @@ const questions = [
       {
         type: 'input',
         name: 'contributing',
-        message: 'What does the user need to know about contributing to the repo?'
+        message: 'What does the user need to know about contributing to the repo?',
+        default: 'Check out the Contributor Covenant industry standard: https://www.contributor-covenant.org/'
       }
 ];
 
@@ -68,5 +69,4 @@ function init() {
     });
 }
 
-// Function call to initialize app
 init();
